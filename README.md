@@ -1,4 +1,14 @@
-## Hi there 👋
+### Hey there 👋
+
+I'm a quiet software developer. °‧𓆟 𓆞 ·࿔*:･ﾟ
+
+Running my own home lab to get hands-on with production environments.
+
+I like to tinker with AI models and Discord bots in my free time.
+
+I keep my stack flexible, but Docker and Podman are always in the toolbox. 🧰
+
+Always learning new languages — building things that help people 💖
 
 <!--
 **miiwo/miiwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
