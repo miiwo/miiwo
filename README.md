@@ -6,7 +6,7 @@ Running my own home lab to get hands-on with production environments.
 
 I like to tinker with AI models and Discord bots in my free time.
 
-I keep my stack flexible, but Docker and Podman are always in the toolbox. 🧰
+I keep my stack flexible, but Docker or Podman are always in the toolbox. 🧰
 
 Always learning new languages — building things that help people 💖
 
